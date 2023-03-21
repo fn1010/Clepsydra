@@ -1,0 +1,10 @@
+pip install PIL
+sudo apt install python3-pip
+pip install PIL
+sudo apt-get install python3-tk
+sudo apt-get install python3-pil python3-pil.imagetk
+apt-get install beep
+sudo spt-get install beep
+sudo apt-get install beep
+sudo apt install speech-dispatcher
+ pip3 install playsound
